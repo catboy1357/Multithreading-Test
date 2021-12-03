@@ -1,0 +1,15 @@
+D:\Programing\test 4\bin\Debug\net6.0\test 4.exe
+D:\Programing\test 4\bin\Debug\net6.0\test 4.deps.json
+D:\Programing\test 4\bin\Debug\net6.0\test 4.runtimeconfig.json
+D:\Programing\test 4\bin\Debug\net6.0\test 4.dll
+D:\Programing\test 4\bin\Debug\net6.0\ref\test 4.dll
+D:\Programing\test 4\bin\Debug\net6.0\test 4.pdb
+D:\Programing\test 4\obj\Debug\net6.0\test 4.csproj.AssemblyReference.cache
+D:\Programing\test 4\obj\Debug\net6.0\test 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\test 4\obj\Debug\net6.0\test 4.AssemblyInfoInputs.cache
+D:\Programing\test 4\obj\Debug\net6.0\test 4.AssemblyInfo.cs
+D:\Programing\test 4\obj\Debug\net6.0\test 4.csproj.CoreCompileInputs.cache
+D:\Programing\test 4\obj\Debug\net6.0\test 4.dll
+D:\Programing\test 4\obj\Debug\net6.0\ref\test 4.dll
+D:\Programing\test 4\obj\Debug\net6.0\test 4.pdb
+D:\Programing\test 4\obj\Debug\net6.0\test 4.genruntimeconfig.cache
