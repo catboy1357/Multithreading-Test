@@ -1,1 +1,1 @@
-# A simple exparament script to learn how thread pooling works
+# A simple experiment script to learn how thread pooling works
